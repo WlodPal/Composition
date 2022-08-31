@@ -55,7 +55,7 @@
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/tv_visible"
         app:layout_constraintTop_toBottomOf="@+id/tv_sum"
-        tools:text="\?" />
+        android:text="@string/unknown" />
 
     <TextView
         android:id="@+id/tv_info"

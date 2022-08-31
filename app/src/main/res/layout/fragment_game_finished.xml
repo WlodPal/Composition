@@ -76,6 +76,7 @@
         app:layout_constraintTop_toBottomOf="@+id/tv_needed_percentage" />
 
     <Button
+        android:id="@+id/b_try_again"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_margin="22dp"

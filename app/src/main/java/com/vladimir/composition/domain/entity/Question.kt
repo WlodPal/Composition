@@ -1,5 +1,8 @@
 package com.vladimir.composition.domain.entity
 
+
+
+
 data class Question (
     val sum: Int,
     val visibleNumber: Int,
