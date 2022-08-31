@@ -15,10 +15,12 @@
     <string name="b_easy">Легкий</string>
     <string name="b_normal">Средний</string>
     <string name="b_hard">Тяжолый</string>
-    <string name="correct_answers">Необходимое количество правельных ответов:</string>
-    <string name="your_Score">Ваш счет:</string>
-    <string name="needed_percent_correct_answer">Необходимый процент правельных ответов:</string>
-    <string name="percentage_correct_answers">Процент правельных ответов:</string>
+    <string name="your_Score">Ваш счет: %s</string>
+    <string name="percentage_correct_answers">Процент правельных ответов: %s</string>
     <string name="one_more_time">Попробовать снова</string>
+    <string name="right_answers">Правельных ответов %s из %s необходимых</string>
+    <string name="needed_percent_correct_answer">Необходимый процент правельных ответов: %s</string>
+    <string name="correct_answers">Необходимое количество правельных ответов: %s</string>
+    <string name="progress_answer">Правельных ответов %s (минимум %s)</string>
     <string name="unknown">\?</string>
 </resources>
