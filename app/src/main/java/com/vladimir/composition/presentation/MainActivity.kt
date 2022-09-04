@@ -2,6 +2,7 @@ package com.vladimir.composition.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatDelegate
 import com.vladimir.composition.R
 
 class MainActivity : AppCompatActivity() {
